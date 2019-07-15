@@ -69,7 +69,7 @@ For example, the Cyber Carpentry organization.
 
 To create a new Team:
 
-Inside your organiztion, click the Teams tab and then click the big green `New team` button.
+Inside your organization, click the Teams tab and then click the big green `New team` button.
 
 For example, the Cyber Carpentry Participants Team.
 
