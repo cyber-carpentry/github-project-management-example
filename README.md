@@ -6,18 +6,15 @@ description: View the slide with "Slide Mode".
 
 # GitHub for project management
 
-<!-- Put the link to this slide here so people can follow -->
-Slides: [hackmd.io/p/rk3RxtMaN](https://hackmd.io/p/rk3RxtMaN)
-
 ---
 
 ## Who am I?
-Marnee Dearman
+
+Julian Pistorius
 
 - Full-stack developer
-- Ham (amateur radio) - KG7SIO
-- Chief Applications Architect, College of Medicine, IT Services
-- F# |> I :heart:
+- University of Arizona, lots of industry before that
+- Ham (amateur radio) - KG7SIL
 
 ---
 
@@ -57,9 +54,9 @@ You can create an organization for your lab and have all of your projects and re
 2. Click the `+` next to your avatar. 
 3. Select New Organization and follow the prompts
 
-For example, the Research Bazaar, Arizona organization.
+For example, the Cyber Carpentry organization.
 
-[Link on GitHub](https://github.com/resbazaz)
+[Link on GitHub](https://github.com/cyber-carpentry)
 
 ---
 
@@ -74,9 +71,9 @@ To create a new Team:
 
 Inside your organiztion, click the Teams tab and then click the big green `New team` button.
 
-For example, the Research Bazaar Website Team.
+For example, the Cyber Carpentry Participants Team.
 
-[Link on GitHub](https://github.com/orgs/resbazaz/teams/website-team)
+[Link on GitHub](https://github.com/orgs/cyber-carpentry/teams/participants)
 
 ---
 
@@ -89,7 +86,7 @@ For example, the Research Bazaar Website Team.
 
 Issues are associated with a repository. Let's look them on this repository:
 
-[Github for Project Management Example](https://github.com/resbazaz/github-project-management-example)
+[Github for Project Management Example](https://github.com/cyber-carpentry/github-project-management-example)
 
 Go to the repository and click the Issues tab.
 
@@ -105,7 +102,7 @@ With each issue you can:
 
 ### Commits and issues
 
-When you create a commit (commit changes to your repository), you can associate a commit with an issue by putting `Issue #X`, e.g. `Issue #1`, at the beginning of your commit message. GitHub will automatically link that commit to the issue and show it in the issue details. You can see an example [here](https://github.com/resbazaz/github-project-management-example/issues/1).
+When you create a commit (commit changes to your repository), you can associate a commit with an issue by putting `Issue #X`, e.g. `Issue #1`, at the beginning of your commit message. GitHub will automatically link that commit to the issue and show it in the issue details. You can see an example [here](https://github.com/cyber-carpentry/github-project-management-example/issues/1).
 
 Example commit message:
 
@@ -135,9 +132,9 @@ Note:
 - Help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists.
 - You can link multiple repositories to a project
 
-Projects can be associated with your personal GitHub profile or an organization. Let's look at Research Bazaar.
+Projects can be associated with your personal GitHub profile or an organization. Let's look at Cyber Carpentry.
 
-On the Research Bazaar organization page, click the Projects tab. You will see a list of projects we have created.
+On the Cyber Carpentry organization page, click the Projects tab. You will see a list of projects we have created.
 
 Create a new project by clicking the big gree `New Project` button.
 
@@ -217,9 +214,9 @@ I will show an example.
 - Threads of conversation around topics
 - Like Slack but slower, and you don't have to pay to read older conversations
 
-Discussions are don with teams. We saw Teams earlier. Let's go back to the Research Bazaar Teams.
+Discussions are don with teams. We saw Teams earlier. Let's go back to the Cyber Carpentry Teams.
 
-[Link to GitHub](https://github.com/orgs/resbazaz/teams)
+[Link to GitHub](https://github.com/orgs/cyber-carpentry/teams)
 
 Notice the `Project Management Workshop` team. Click on it and you will see the discussions. You can add a topic or comment on an existing one.
 
@@ -305,10 +302,8 @@ Note:
 
 You can find me on:
 
-- GitHub: [MarneeDear](https://github.com/MarneeDear)
-- Blog: [marnee.silvrback.com](https://marnee.silvrback.com/)
-- Radio waves: KG7SIO
-- My NetID: `marneedearman`
+- GitHub: [JulianPistorius](https://github.com/JulianPistorius)
+- UA Data Science Institute: <https://datascience.arizona.edu/person/julian-pistorius>
 
 ---
 
